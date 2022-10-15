@@ -1,0 +1,10 @@
+nav {
+  width: 100vw;
+  height: 8vh;
+  background-color: #161616;
+}
+
+#translate-title,
+#stonechat-title {
+  line-height: 8vh;
+}
